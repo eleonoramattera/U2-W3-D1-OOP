@@ -24,3 +24,7 @@ bottone.onclick = function () {
   rigaDue.innerHTML = user1.surname;
   rigaTre.innerHTML = user1.dataNascita;
 };
+
+let div = document.createElement("div");
+(document.innerHTML = name.value), surname.value, dataNascita.value;
+document.appendChild(div);
